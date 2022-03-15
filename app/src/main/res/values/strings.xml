@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Plenty</string>
+    <string name="name">Plenty</string>
+    <string name="hint">Search Recipe</string>
+    <string name="available">Available Meals</string>
+    <string name="button1">Get Started</string>
+    <string name="button2">Start Cooking!</string>
+    <string name="ingredients">Ingredient</string>
+    <string name="measurements">Measurements</string>
+    <string name="time">Time Frame</string>
+    <string name="saved">Saved Recipes</string>
+    <string name="instructions">Instructions</string>
+    <string name="meal">Meal</string>
+    <string name="email">Email</string>
+    <string name="urge">Dont have an account? Sign up!</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="need">Create Account</string>
+    <string name="you">Name</string>
+    <string name="relogin">Confirm Password</string>
+    <string name="start">Start</string>
+    <string name="intro2">Enter a food name below and get a recipe</string>
+    <string name="signs">Sign Up</string>
+    <string name="up">Already have an account? Log in here!</string>
+    <string name="save">Save Meal</string>
+    <string name="savie">Save Recipe</string>
+    <string name="category">Category</string>
+    <string name="rating">Rating</string>
+    <string name="foodname">Meal Name</string>
+    <string name="location">Enter location</string>
+    <string name="intro">Love cooking but dont know where to start? We have plenty of recipes. Feel free to explore.</string>
+</resources>
